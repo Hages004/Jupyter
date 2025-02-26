@@ -1,14 +1,12 @@
-# Jupyter Notebook Explorations 🚀
+# Jupyter Notebook Practice 📝  
 
-Welcome to my Jupyter Notebook repository! Here, I document my learning, experiments, and practice with Python, data analysis, and more.  
+This repository contains my Python script explorations using Jupyter Notebook. Currently, I'm focusing on:  
 
-## 📌 What's Inside?
-- Python scripting
-- and
-- 
-- Hands-on exercises  
+✅ Writing Python scripts  
+✅ Exploring built-in functions and libraries  
+
+🔜 Future additions:  
 - Data manipulation & visualization  
 - Algorithm implementations
-- are yet to come 
 
-Feel free to explore and contribute! 😊  
+Stay tuned for more updates! 🚀  
